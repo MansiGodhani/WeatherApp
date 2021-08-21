@@ -1,3 +1,4 @@
+
 # WeatherApp
 Implement a Weather App using API.
 
@@ -21,7 +22,7 @@ This is Weather app to uses for the user to Search Weather for diffrenet places.
 
 <h2>Gif Video</h2>
 
-(https://user-images.githubusercontent.com/81357299/130316627-7d043a4c-3e2f-4c73-bd05-6725361aaadf.gif)
+![WeatherApp](https://user-images.githubusercontent.com/81357299/130316645-416adfff-5a40-4516-a4b7-7eda2d43dcf4.gif)
 
 <h2>Images</h2>
 
