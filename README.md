@@ -20,6 +20,7 @@ This is Weather app to uses for the user to Search Weather for diffrenet places.
 </ul>
 
 <h2>Images</h2>
+
   ![1 HomePage](https://user-images.githubusercontent.com/81357299/130316511-ded33243-dda7-4faa-90f8-43abe9927810.png)</br>
   ![2 SearchPage](https://user-images.githubusercontent.com/81357299/130316516-f971c266-4136-4a33-a904-bf56352675b4.png)</br>
   ![3 Detail1](https://user-images.githubusercontent.com/81357299/130316524-f125332b-127f-4901-b889-3977fcb024c3.png)</br>
