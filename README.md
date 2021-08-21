@@ -21,8 +21,7 @@ This is Weather app to uses for the user to Search Weather for diffrenet places.
 
 <h2>Gif Video</h2>
 
-![](http![WeatherApp](https://user-images.githubusercontent.com/81357299/130316627-7d043a4c-3e2f-4c73-bd05-6725361aaadf.gif)
-
+(https://user-images.githubusercontent.com/81357299/130316627-7d043a4c-3e2f-4c73-bd05-6725361aaadf.gif)
 
 <h2>Images</h2>
 
